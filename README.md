@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emaburgos&label=Profile%20views&color=0e75b6&style=flat" alt="emaburgos" /> </p>
 
-- 🔭 I’m currently working on [RickyMorty (Henry Bootcamp)](https://github.com/EmaBurgos/Rick-y-morty)
+- 🔭 I’m currently working on [PHP proyect](https://github.com/EmaBurgos/Compradores.php)
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning **C# .NET**
 
-- 👯 I’m looking to collaborate on [Calculadora con React](https://github.com/EmaBurgos/Calculator-con-React-)
+- 👯 I’m looking to collaborate on [ToolMatch](https://tools-match-eight.vercel.app/)
 
-- 💬 Ask me about **react.js, express.js, sequelize, postgreSql**
+- 💬 Ask me about **React.js, Express.js, Sequelize, PostgreSql**
 
 - 📫 How to reach me **emaburgos17@hotmail.com**
 
