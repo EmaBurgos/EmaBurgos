@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emanuel Burgos 🚀</h1>
+<h1 align="center">Hi 👋, I'm Ema 🚀</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" alt="GIF">
 </p>
